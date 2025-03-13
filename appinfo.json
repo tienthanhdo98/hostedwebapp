@@ -1,0 +1,11 @@
+{
+  "id": "com.web.hanoion",
+  "version": "0.0.2",
+  "vendor": "ĐÀI PHÁT THANH VÀ TRUYỀN HÌNH HÀ NỘI",
+  "type": "web",
+  "main": "index.html",
+  "title": "HANOION",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png",
+  "splashBackground": "splash_bg.png"
+}
